@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%201.png",
+        "productname": "Gradient Graphic T-shirt",
+        "quantity": 212,
+        "rating": 2,
+        "price": 145
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%207.png",
+        "productname": "Polo with Tipping Details",
+        "quantity": 320,
+        "rating": 1,
+        "price": 180
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%207-1.png",
+        "productname": "Black Striped T-shirt",
+        "quantity": 420,
+        "rating": 3,
+        "price": 120
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%208.png",
+        "productname": "Skinny Fit Jeans",
+        "quantity": 20,
+        "rating": 4,
+        "price": 240
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%208-1.png",
+        "productname": "Checkered Shirt",
+        "quantity": 20,
+        "rating": 4,
+        "price": 180
+    },
+    {
+        "id": 6,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%208-2.png",
+        "productname": "Sleeve Striped T-shirt",
+        "quantity": 20,
+        "rating": 4,
+        "price": 130
+    },
+    {
+        "id": 7,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%209.png",
+        "productname": "Vertical Striped Shirt",
+        "quantity": 20,
+        "rating": 4,
+        "price": 212
+    },
+    {
+        "id": 8,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%209-1.png",
+        "productname": "Courage Graphic T-shirt",
+        "quantity": 20,
+        "rating": 4,
+        "price": 145
+    },
+    {
+        "id": 9,
+        "imgUrl": "https://68c4342f80091791a33d53cc--candbshop.netlify.app/assets/img/image%209-2.png",
+        "productname": "Loose Fit Bermuda Shorts",
+        "quantity": 10,
+        "rating": 4,
+        "price": 80
+    }
+]
