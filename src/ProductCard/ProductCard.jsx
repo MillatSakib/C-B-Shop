@@ -1,6 +1,6 @@
 import Button from "./Button";
 
-function ProductCard({ data }) {
+function ProductCard({ data,index }) {
   return (
     <>
       <div className="bg-gray-100 rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-300">
@@ -32,7 +32,11 @@ function ProductCard({ data }) {
           </div>
           <p className="font-bold">${data.price} </p>
 
-          <Button itemStatus={data.status ? data.status : "0"} />
+          <Button
+            itemStatus={data.status ? data.status : "0"}
+            productID={data.id}
+            index={index}
+          />
         </div>
       </div>
     </>

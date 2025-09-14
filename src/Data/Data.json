@@ -5,7 +5,9 @@
         "productname": "Gradient Graphic T-shirt",
         "quantity": 212,
         "rating": 2,
-        "price": 145
+        "price": 145,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 2,
@@ -13,7 +15,9 @@
         "productname": "Polo with Tipping Details",
         "quantity": 320,
         "rating": 1,
-        "price": 180
+        "price": 180,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 3,
@@ -21,7 +25,9 @@
         "productname": "Black Striped T-shirt",
         "quantity": 420,
         "rating": 3,
-        "price": 120
+        "price": 120,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 4,
@@ -29,7 +35,9 @@
         "productname": "Skinny Fit Jeans",
         "quantity": 20,
         "rating": 4,
-        "price": 240
+        "price": 240,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "productname": "Checkered Shirt",
         "quantity": 20,
         "rating": 4,
-        "price": 180
+        "price": 180,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "productname": "Sleeve Striped T-shirt",
         "quantity": 20,
         "rating": 4,
-        "price": 130
+        "price": 130,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "productname": "Vertical Striped Shirt",
         "quantity": 20,
         "rating": 4,
-        "price": 212
+        "price": 212,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 8,
@@ -61,7 +75,9 @@
         "productname": "Courage Graphic T-shirt",
         "quantity": 20,
         "rating": 4,
-        "price": 145
+        "price": 145,
+        "size": "Large",
+        "color": "White"
     },
     {
         "id": 9,
@@ -69,6 +85,8 @@
         "productname": "Loose Fit Bermuda Shorts",
         "quantity": 10,
         "rating": 4,
-        "price": 80
+        "price": 80,
+        "size": "Large",
+        "color": "White"
     }
 ]
