@@ -32,7 +32,7 @@ function CartProduct() {
               <h3 className="font-medium">{cartItem.productname}</h3>
               <span
                 onClick={() => productCountHandle(0, index, cartItem.productID)}
-                className="text-red-500 text-lg cursor-pointer"
+                className="text-red-500 text-lg cursor-pointer select-none"
               >
                 ×
               </span>
@@ -44,14 +44,14 @@ function CartProduct() {
               <div className="flex items-center space-x-2">
                 <button
                   onClick={() => productCountHandle(-1, index)}
-                  className="w-6 h-6 bg-gray-100 rounded flex items-center cursor-pointer justify-center"
+                  className="w-6 h-6 bg-gray-100 rounded flex items-center cursor-pointer justify-center select-none"
                 >
                   −
                 </button>
                 <span className="text-sm">{cartItem.quantity}</span>
                 <button
                   onClick={() => productCountHandle(1, index)}
-                  className="w-6 cursor-pointer h-6 bg-gray-100 rounded flex items-center justify-center"
+                  className="w-6 cursor-pointer h-6 bg-gray-100 rounded flex items-center justify-center select-none"
                 >
                   +
                 </button>
